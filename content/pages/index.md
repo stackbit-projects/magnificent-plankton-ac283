@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Вообще для чего это надо - непонятно
     actions:
-      - label: Почита
+      - label: Почитать...
         url: /features
         style: primary
       - label: Contact Us
