@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Это какая-то херня!
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Вообще .
     actions:
       - label: Learn More
         url: /features
