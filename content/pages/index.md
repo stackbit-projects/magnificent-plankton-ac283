@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Вообще для чего это надо - непонятно
     actions:
-      - label: Давай чего нибудь
+      - label: 
         url: /features
         style: primary
       - label: Contact Us
