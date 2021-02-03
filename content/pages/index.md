@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: There Is New Big Hero Headline
+    title: Это как
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
