@@ -9,7 +9,7 @@ sections:
       - label: Возможности...
         url: /features
         style: primary
-      - label: 
+      - label: На связи
         url: /contact
         style: secondary
     align: left
