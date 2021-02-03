@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Это какая-то херня!
     subtitle: >-
-      Вообще для чего это надо - непонятно.
+      Вообще для чего это надо - непонятно
     actions:
       - label: Learn More
         url: /features
